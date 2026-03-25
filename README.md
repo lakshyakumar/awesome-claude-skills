@@ -98,6 +98,7 @@
 ## 📘 Learning & Knowledge  
 - [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.  
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
+- [prism-canvas](https://github.com/lakshyakumar/prism-canvas) - Full-Spectrum market intelligence for founders - Lean Canvas extended with competitor analysis, validation, and strategic clarity.
 
 
 
